@@ -21,7 +21,7 @@ console.log('value of fullName:', fullName);
 console.log('typeof fullName', typeof fullName);
 
 let pH = 1;
-let isAcidic = ph < 7;
+let isAcidic = pH < 7;
 console.log('value of isAcidic', isAcidic);
 console.log('type of isAcidic', typeof isAcidic);
 
@@ -30,6 +30,6 @@ let isSparta = numberofSoldiers === 300;
 console.log('value of isSparta', isSparta);
 console.log('typeof isSparta:', typeof isSparta);
 
-let nickname = 'fullName ' + 'is the GOAT';
+let nickname = fullName + ' is the GOAT';
 console.log('value of nickname', nickname);
 console.log('typeof nickname:', typeof nickname);
