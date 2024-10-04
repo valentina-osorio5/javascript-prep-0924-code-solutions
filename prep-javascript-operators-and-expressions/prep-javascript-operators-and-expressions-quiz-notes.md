@@ -18,6 +18,7 @@ Answer the following questions in the provided markdown file before turning in t
 
 - What does the `+=` "plus-equals" operator do?
 - y += 5; // same as y = y + 5
+- a concantenation of what is on the right with what's on the left
 
 ## Notes
 
